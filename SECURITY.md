@@ -1,1 +1,0 @@
-#You should report bugs on their bug reprting page! https://support.torproject.org/misc/bug-or-feedback/
